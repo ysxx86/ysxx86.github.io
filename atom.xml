@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="http://yoursite.com/2018/01/03/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2018/01/03/测试文章/</id>
+    <link href="http://yoursite.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/测试文章/</id>
     <published>2018-01-03T05:40:38.000Z</published>
     <updated>2018-01-03T05:41:58.000Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/01/02/hello-world/"/>
-    <id>http://yoursite.com/2018/01/02/hello-world/</id>
+    <link href="http://yoursite.com/hello-world/"/>
+    <id>http://yoursite.com/hello-world/</id>
     <published>2018-01-02T06:15:08.000Z</published>
     <updated>2018-01-02T06:15:08.000Z</updated>
     
