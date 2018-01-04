@@ -3,55 +3,12 @@
   <entry>
     <title><![CDATA[彷徨]]></title>
     <url>%2F%E5%BD%B7%E5%BE%A8%2F</url>
-    <content type="text"><![CDATA[这首诗是2009年8月17日写的，写的时候还不知道能否上大学，那时在石狮服装厂打工，特别辛苦。走在十字路口彷徨幽怨着那街角的灯昏暗心悬在那树梢上让黑夜摧残血在滴迷茫让人喘不过气来给口氧气就可以坚强地活着每当黑夜便是一个轮回猛地回头不再是十字路口而是胡同至少不再折磨不再选择不再彷徨假的街角的那灯也迷茫]]></content>
+    <content type="text"><![CDATA[这首诗是2009年8月17日写的，写的时候还不知道能否上大学，那时在石狮服装厂打工，特别辛苦。 走在十字路口彷徨幽怨着那街角的灯昏暗心悬在那树梢上让黑夜摧残血在滴迷茫让人喘不过气来给口氧气就可以坚强地活着每当黑夜便是一个轮回猛地回头不再是十字路口而是胡同至少不再折磨不再选择不再彷徨假的街角的那灯也迷茫]]></content>
       <categories>
         <category>个人诗集</category>
       </categories>
       <tags>
         <tag>诗歌</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[加密文章]]></title>
-    <url>%2F%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-      <tags>
-        <tag>加密</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[版权信息]]></title>
-    <url>%2F%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF%2F</url>
-    <content type="text"><![CDATA[测试版权信息]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-      <tags>
-        <tag>Testing</tag>
-        <tag>版权</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-  </entry>
-  <entry>
-    <title><![CDATA[测试文章]]></title>
-    <url>%2F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%2F</url>
-    <content type="text"><![CDATA[这是测试文章]]></content>
-      <categories>
-        <category>Testing</category>
-      </categories>
-      <tags>
-        <tag>Testing</tag>
-        <tag>Another Tag</tag>
       </tags>
   </entry>
 </search>
