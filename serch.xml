@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[加密文章]]></title>
+    <url>%2F%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0%2F</url>
+    <content type="text"><![CDATA[这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章这是加密的文章]]></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>加密</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[版权信息]]></title>
     <url>%2F%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF%2F</url>
     <content type="text"><![CDATA[测试版权信息]]></content>
