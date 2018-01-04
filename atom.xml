@@ -5,9 +5,9 @@
   <subtitle>世界如此美丽</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://ysxx86.top/"/>
   <updated>2018-01-04T02:52:06.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://ysxx86.top/</id>
   
   <author>
     <name>青柠半夏</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>版权信息</title>
-    <link href="http://yoursite.com/%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF/"/>
-    <id>http://yoursite.com/版权信息/</id>
+    <link href="http://ysxx86.top/%E7%89%88%E6%9D%83%E4%BF%A1%E6%81%AF/"/>
+    <id>http://ysxx86.top/版权信息/</id>
     <published>2018-01-04T01:09:48.000Z</published>
     <updated>2018-01-04T02:52:06.000Z</updated>
     
@@ -35,19 +35,19 @@
     
     </summary>
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="Testing" scheme="http://ysxx86.top/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="http://ysxx86.top/tags/Testing/"/>
     
-      <category term="版权" scheme="http://yoursite.com/tags/%E7%89%88%E6%9D%83/"/>
+      <category term="版权" scheme="http://ysxx86.top/tags/%E7%89%88%E6%9D%83/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/hello-world/"/>
-    <id>http://yoursite.com/hello-world/</id>
+    <link href="http://ysxx86.top/hello-world/"/>
+    <id>http://ysxx86.top/hello-world/</id>
     <published>2018-01-02T06:15:08.000Z</published>
     <updated>2018-01-04T02:52:54.000Z</updated>
     
@@ -59,15 +59,15 @@
     
     </summary>
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="Testing" scheme="http://ysxx86.top/categories/Testing/"/>
     
     
   </entry>
   
   <entry>
     <title>测试文章</title>
-    <link href="http://yoursite.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/测试文章/</id>
+    <link href="http://ysxx86.top/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://ysxx86.top/测试文章/</id>
     <published>2017-12-29T05:40:38.000Z</published>
     <updated>2018-01-04T01:07:21.000Z</updated>
     
@@ -83,12 +83,12 @@
     
     </summary>
     
-      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+      <category term="Testing" scheme="http://ysxx86.top/categories/Testing/"/>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="http://ysxx86.top/tags/Testing/"/>
     
-      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+      <category term="Another Tag" scheme="http://ysxx86.top/tags/Another-Tag/"/>
     
   </entry>
   
